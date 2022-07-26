@@ -1,7 +1,7 @@
 {
-    "name": "relics-of-the-realms-may",
-    "title": "Relics of the Realms May Collection",
-    "description": "A Compendium of D&D 5e Magic Items and Spells",
+    "name": "relics-of-the-realms-items-abridged",
+    "title": "Relics of the Realms Item Collection",
+    "description": "A Compendium of D&D 5e Magic Items",
     "version": "1.4.0",
     "author": "Relics of the Realms",
     "minimumCoreVersion": "0.8.0",
